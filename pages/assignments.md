@@ -34,7 +34,7 @@ description: Ben Harvey's assignments
 
 Results | Repository
 ---|---
-[assignment1 results]()| [assignment1 repositiory]()
+[assignment1 results](https://github.com/yiweiwang1993/assignment/blob/master/EMSE6992_Assignments/HW1.ipynb)| [assignment1 repositiory]()
 
 ---
 
