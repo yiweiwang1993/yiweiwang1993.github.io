@@ -54,7 +54,7 @@ Results | Repository
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment2 results]()| [assignment2 repositiory]()|
+| [assignment2 results](https://github.com/yiweiwang1993/assignment/blob/master/EMSE6992_Assignments/YiweiWangAS02.ipynb)| [assignment2 repositiory]()|
 
 ---
 
