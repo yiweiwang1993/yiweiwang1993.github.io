@@ -5,15 +5,16 @@ description: Benjamin Harvey is...
 ---
 
 #### <a name="currentposition"></a>current position
-{Insert text here}
+Graduate student at George Washington University, in Data Analysis program.
 
 
 #### <a name="previousposition"></a>previous positions
-{Insert text here}
+Undergraduate student in George Mason University, major in Finance, with dual degree in Nanjing Normal University, major in Finance.
+
 
 
 #### <a name="researchbackground"></a>research background
-{Insert text here}
+Currently without any persuasive research experience.
 
 
 #### <a name="education"></a>ecucation
