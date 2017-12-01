@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+title: Yiwei Wang
+description: Yiwei Wang is currenetly a Data Analysis program student in George Washington University.
 keywords: statistics, data analytics
 ---
 
