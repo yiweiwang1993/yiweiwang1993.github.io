@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: R/qtlcharts example
+title: household expenditure and S&P500
 ---
 
 <div class="navbar">
@@ -12,7 +12,7 @@ title: R/qtlcharts example
   </div>
 </div>
 
-[R/qtlcharts](http://kbroman.org/qtlcharts), an R package to create
+[household expenditure and S&P500](http://kbroman.org/qtlcharts), an R package to create
 interactive data visualizations for QTL data; <br/>
 see Broman (2015) Genetics 199:359-361
 [![PubMed](../icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25527287)
