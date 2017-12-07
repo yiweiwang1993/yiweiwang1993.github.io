@@ -1,7 +1,7 @@
 ---
 layout: page
 title: labs & assignments
-description: Ben Harvey's assignments
+description: Yiwei Wang's assignments
 ---
 
 
@@ -78,6 +78,14 @@ Results | Repository
 
 ---
 
+
+
+####  <a name="Final Paper"></a>Final Paper
+
+
+| Results                | Repository                 |
+| ---------------------- |:--------------------------:|
+| [Final Paper results](https://github.com/yiweiwang1993/assignment/blob/master/EMSE6992_Assignments/final.docx)| [assignment3 repositiory]()|
 
 
 ####  <a name="Assignment4"></a>Assignment4
