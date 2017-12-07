@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: Yiwei Wang is currently a full-time student
 ---
 
 #### <a name="currentposition"></a>current position
